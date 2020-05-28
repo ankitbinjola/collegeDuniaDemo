@@ -1,0 +1,423 @@
+.Layer-0 {
+    width: 1440px;
+    height: 504px;
+    background-color: #ffffff;
+    border: 2px solid black;
+
+  }
+  .Colleges-in-North-India {
+    width: 180px;
+    height: 50px;
+    font-family: DINPro;
+    font-size: 18.5px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.97;
+    letter-spacing: normal;
+    text-align: left;
+    color: #444444;
+    position: relative;
+  }
+
+  .Hansraj-College-Delhi-University:hover{
+color: lightseagreen;
+  }
+  
+
+  .checked {
+    color: goldenrod;
+  }
+
+  .imageContainer{
+      position: relative;
+    }
+
+    .imagecontent{
+        background-color: black;
+        opacity: 0.5;
+    }
+
+  .bestCollege{
+    width: 135px;
+    height: 34px;
+    border-radius: 16.5px;
+    background-color: #ffffff;
+    position: absolute;
+    bottom: 8px;
+    text-align: center;
+  }
+
+.in-260-colleges-in-delhi{
+    position: absolute;
+    bottom: 8px;
+    right: 13px;
+}
+
+.Rectangle-3-ram {
+    width: 75px;
+    height: 53px;
+    border-radius: 3.8px;
+    background-color: #f5a626;
+    position: absolute;
+    top: 17px;
+    right: 13px;
+  }
+
+
+
+.Rectangle-3 {
+    width: 75px;
+    height: 53px;
+    border-radius: 3.8px;
+    background-color: #f5a626;
+    position: absolute;
+    top: 34px;
+    right: 13px;
+  }
+  .promotedImage{
+      position: absolute;
+      top:-21.5px;
+      right: -1px;
+  }
+
+.instantDiscount{
+    position: relative;
+    bottom: 17px;
+    right: -6px;
+    width: 325px;
+}
+
+
+  .-Very-Good {
+    width: 57px;
+    height: 35px;
+    font-family: DINPro;
+    font-size: 13.5px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    padding-left: 9px;
+  }
+
+
+.kmsaway {
+    width: 93px;
+    height: 34px;
+    border-radius: 16.5px;
+    background-color: #ffffff;
+    position: absolute;
+    bottom: 8px;
+    text-align: center;
+    left: 140px;
+}
+
+.kmsAwayText{
+    margin-left: 0px !important;
+}
+
+  .Best-college-2018 {
+    width: 100px;
+    height: 13px;
+    font-family: DINPro;
+    font-size: 13.5px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #444444;
+    margin-left: 14px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+  }
+
+  #-in-260-colleges-in-north-campus {
+    width: 199px;
+    height: 13px;
+    font-family: DINPro;
+    font-size: 13.5px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+
+
+  .Rectangle-1 {
+    width: 639px;
+    height: 377px;
+    border-radius: 3.8px;
+    box-shadow: 0 0 19px 10px rgba(68, 68, 68, 0.1);
+ 
+    background-color: #ffffff;
+  }
+
+  .Rectangle-1-copy {
+    width: 638px;
+    height: 377px;
+    border-radius: 3.8px;
+    box-shadow: 0 0 19px 0 rgba(68, 68, 68, 0.1);
+
+    background-color: #ffffff;
+  }
+
+  .Hansraj-College-Delhi-University {
+    width: 260px;
+    height: 17px;
+    font-family: DINPro;
+    font-size: 17.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.97;
+    letter-spacing: normal;
+    text-align: left;
+    color: #444444;
+    margin-bottom: 0px;
+  }
+
+  .Near-Vishwavidyalya-Metro-Station {
+    width: 196px;
+    height: 13px;
+    font-family: DINPro;
+    font-size: 13.5px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #444444;
+    margin-bottom: 0px;
+  }
+
+
+  .-Kms-away-from-bus-stand {
+    width: 157px;
+    height: 13px;
+    font-family: DINPro;
+    font-size: 13.5px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #adadad;
+    padding-left: 3px;
+}
+
+  .Shape-2 {
+    width: 2px;
+    height: 12px;
+    /* border: solid 0.4px #444444; */
+    background-color: #444444;
+  }
+
+
+
+  .-Match-25kms-from-GTB-Nagar-7-Kms-from-Rajiv-Chowk {
+    width: 358px;
+    height: 13px;
+    font-family: DINPro;
+    font-size: 13.5px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #adadad;
+    margin: 0px;
+  }
+  .-Match-25kms-from-GTB-Nagar-7-Kms-from-Rajiv-Chowk .text-style-1 {
+    font-weight: bold;
+    color: #49ba9f;
+  }
+  .-Match-25kms-from-GTB-Nagar-7-Kms-from-Rajiv-Chowk .text-style-2 {
+    font-weight: bold;
+    color: #444444;
+  }
+
+  .Rectangle-4 {
+    width: 347px;
+    height: 27px;
+    background-color: #ccf5e7;
+    border-top-right-radius: 11px;
+    border-bottom-right-radius: 11px;
+}
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN {
+    width: 339px;
+    height: 13px;
+    font-family: DINPro;
+    font-size: 13.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #444444;
+    margin-bottom: 0px;
+  }
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN .text-style-1 {
+    font-weight: 500;
+    color: #49ba9f;
+}
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN .text-style-2 {
+    color: #49ba9f
+  }
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN .text-style-3 {
+    color: #68a8ff;
+  }  
+
+  .Shape-3{
+    width: 37px;
+    height: 10px;
+    font-family: DINPro;
+    font-size: 11px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: normal;
+    text-align: right;
+    color: #444444;
+    font-family: Myriad Pro;
+    font-weight: normal;
+    right: -151px;
+  }
+
+
+  .Shape-4 {
+    width: 10px;
+    height: 9px;
+    font-family: DINPro;
+    font-size: 11px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+  }
+
+  .Layer-1 {
+    width: 24px;
+    height: 17px;
+    font-size: 12px;    
+    text-align: right;
+    position: relative;
+    right: -157px;
+}
+
+.deletedText{
+    position: relative;
+    right: -140px;
+}
+
+.newPrice{
+    width: 89px;
+    height: 26px;
+    font-family: DINPro;
+    font-size: 28.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.89;
+    letter-spacing: normal;
+    text-align: center;
+    color: #dd1c26;
+    position: relative;
+    top: -35px;
+    right: -151px;
+  }
+
+
+  .Per-Semester-3months {
+    width: 106px;
+    height: 10px;
+    font-family: Myriad Pro;
+    font-size: 11px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.64;
+    letter-spacing: normal;
+    text-align: center;
+    color: #444444;
+    width: 123px;
+    position: relative;
+    top: -62px;
+    right: -151px;
+  }
+
+  .Free-Cancellation {
+    width: 101px;
+    height: 10px;
+    font-family: DINPro;
+    font-size: 13.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #6dc5af;  
+}
+
+  .Ellipse-1 {
+    width: 4px;
+    height: 4px;
+    background-color: #6dc5af;
+    font-size: 7px;
+    font-weight: 800;
+    position: relative;
+    top: 15px;
+  }
+
+
+  .Free-Wi-Fi {
+    width: 60px;
+    height: 10px;
+    font-family: DINPro;
+    font-size: 13.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #6dc5af;
+  }
+
+  .rightTextBoxThree{
+      position: relative;
+      top: -40px;
+      right: -115px;
+  }
+
+
+  .rightTextBoxThreeRam{
+    position: relative;
+    top: -70px;
+    right: -115px;
+}
+
+
+  /* befor after */
+  .imageContainer{
+    opacity: 0.7;
+    background-color: #000000;
+
+  }
